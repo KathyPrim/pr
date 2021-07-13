@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.Form1.resources
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\task1\task1\bin\Debug\task1.exe.config
+C:\Users\user\source\repos\task1\task1\bin\Debug\task1.exe
+C:\Users\user\source\repos\task1\task1\bin\Debug\task1.pdb
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.exe
+C:\Users\user\source\repos\task1\task1\obj\Debug\task1.pdb
